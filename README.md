@@ -3,4 +3,6 @@
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,php,py" />
   </a>
 </p>
-<iframe class=discord src="https://discord.com/widget?id=1135774147503476778&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<br>
+<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5061df29d55a92d945_full_logo_blurple_RGB.svg" href="https://discord.gg/BmQ69VbfQQ">
+<img src="https://cdn-icons-png.freepik.com/256/124/124021.png" href="https://twitter.com/mktm235">
